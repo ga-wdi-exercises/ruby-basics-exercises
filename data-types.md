@@ -94,7 +94,7 @@ Your answer.
 ```rb
 age = 21
 if age
-  puts "My age is: " + no_name
+  puts "My age is: " + age
 end
 ```
 ```text
